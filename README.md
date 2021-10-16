@@ -2,7 +2,7 @@
 - 👀 I’m interested in R, Python and hackintosh.
 - 🌱 I’m currently learning these.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: 1114229151@qq.com
 
 <!---
 HoweLee1998/HoweLee1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
